@@ -1,4 +1,4 @@
-Linger in the Void.
+AsteroidProspectorSpaceAppChallenge
 ===================================
 
 Space App Challenge/ Asteroid Prospector
